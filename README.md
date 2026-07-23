@@ -25,9 +25,20 @@ This project analyzes a retail sales dataset to identify key drivers of sales an
 
 ## Repository Contents
 - Retail_Profit_Optimization.ipynb
-- Dashboard (to be added)
-- Dataset (optional)
 - README.md
+- images.png
+
+  ## Visualizations
+
+- Sales by Category
+- Profit by Category
+- Sales by Region
+- Profit by Region
+- Monthly Sales Trend
+- Monthly Profit Trend
+- Customer Segment Analysis
+- Discount vs Profit Analysis
+- Top Customers Analysis
 
 ## Author
 Sushmitha Gowda Y
