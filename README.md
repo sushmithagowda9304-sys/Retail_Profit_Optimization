@@ -41,7 +41,7 @@ The dataset includes:
 
 ---
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 | Tool | Purpose |
 |------|----------|
