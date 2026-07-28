@@ -111,6 +111,14 @@ The Executive Dashboard provides a high-level overview of business performance.
 - Profit Trend (2011–2014)
 
 This page enables executives to quickly understand business performance across categories, regions, and time.
+## Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](Retail_Dashboard_1.png)
+
+---
+
 
 ---
 
@@ -135,6 +143,12 @@ This page focuses on operational and customer insights.
 - Ship Mode
 
 These slicers allow users to dynamically filter the dashboard.
+## Dashboard Preview
+
+
+### Business Insights Dashboard
+
+![Business Insights Dashboard](Retail_Dashboard_2.png)
 
 ---
 
