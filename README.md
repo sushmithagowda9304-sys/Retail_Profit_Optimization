@@ -1,4 +1,4 @@
-# 📊 Retail Profit Optimization Dashboard
+#  Retail Profit Optimization Dashboard
 
 ## Project Overview
 
